@@ -1,0 +1,9 @@
+{
+  "name": "motioncraft-ai",
+  "version": "1.0.0",
+  "description": "AI Video Generator powered by Magnific API",
+  "private": true,
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
